@@ -78,3 +78,7 @@ Un Rogue DHCP est un serveur DHCP non autorisé qui distribue de fausses configu
 ##  Conclusion
 
 Ce projet montre comment une attaque DHCP peut compromettre un réseau et souligne l’importance de la **surveillance et sécurisation des infrastructures**.
+## 📄 Documentation complète
+
+Une version détaillée du projet est disponible ici :
+👉 [Voir le rapport complet](images/rapport-rogue-dhcp.pdf)
